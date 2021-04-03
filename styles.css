@@ -1,0 +1,118 @@
+body {
+  margin: 0 10%;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+/* -------------------------  COLOUR SECTION!!! ------------------------- */
+
+.color-section,
+.font-section,
+.text-section {
+  border: 2px solid #a2a2a6;
+  margin: 15px auto;
+}
+
+.inside-color,
+.inside-font,
+.inside-text {
+  position: relative;
+  left: 20px;
+  display: inline;
+}
+
+.cool-blue,
+.pink,
+.mint-green,
+.beige {
+  display: inline-block;
+  width: 350px;
+  padding: 20px;
+  margin: 20px auto;
+  text-align: center;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.cool-blue {
+  background-color: #2d5dcc;
+}
+
+.pink {
+  background-color: #d957d9;
+}
+
+.mint-green {
+  background-color: #4fe0b0;
+}
+
+.beige {
+  background-color: #efd9ca;
+}
+
+/* -------------------------  FONT SECTION!!! ------------------------- */
+
+h3 {
+  text-decoration: underline;
+}
+
+.source-code-pro {
+  font-family: "Source Code Pro", monospace;
+  font-weight: 400;
+  display: inline-block;
+  padding: 10px 10px 10px 0;
+}
+
+.nunito-sans {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+  padding: 10px;
+  margin-right: 250px;
+  float: right;
+}
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  padding: 10px 10px 10px 0;
+  clear: both;
+}
+
+.source-bold,
+.nunito-bold,
+.poppins-bold {
+  font-weight: 700;
+}
+
+.source-italic,
+.nunito-italic,
+.poppins-italic {
+  font-style: italic;
+}
+
+/* -------------------------  TEXT-STYLES SECTION!!! ------------------------- */
+
+.tag-h1 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.tag-h2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.tag-p {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
