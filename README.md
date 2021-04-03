@@ -10,3 +10,4 @@ Practicing positioning and typography
 ## Status
 
 > Project Completed
+> [Page link!](https://customhaven.github.io/websites-style-guide/)
